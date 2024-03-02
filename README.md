@@ -8,6 +8,7 @@ This design is intended to be printed on A3 paper and used as a cover for a fake
 
 ## Design method
 
+* QR Code (containing the URL to this repository) generated with [Python qrcode package]([AA](https://pypi.org/project/qrcode/)): `qr --factory=svg 'https://github.com/PhilboBaggins/meat-magazine-cover' > grcode.svg`
 * `1-Capture.png` was captured from the video
 * `1-Capture.png` was then cropped to create `2-Cropped.png`
 * `2-Cropped.png` was then opened in [Gimp](https://www.gimp.org/) and the perspective was fixed to create `3-PerspectiveFixed.png`
@@ -18,5 +19,6 @@ This design is intended to be printed on A3 paper and used as a cover for a fake
     * Resize to landscape A3 and fill in blanks with clone and spill pain tools
     * Add the "M.E.A.T." text
     * Add the "Mankind for Ethical Animal Treatment" text (not in the original, but I think we need to add it because people won't know what "M.E.A.T." means without the show to tell them)
+    * Add QR code
     * Saved as `MEAT.xcf`
     * Exported to `MEAT.png`
