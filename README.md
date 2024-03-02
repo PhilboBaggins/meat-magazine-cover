@@ -14,5 +14,7 @@ Based on a magazine shown in from [Futurama season 2 episode 18 "The Problem Wit
     * The clone and brush tools were used to remove the hand from the lower right and clean up a few other areas (especially the edges of the picture)
     * The clone tool was used to remove the "M.E.A.T." text from the top; this also meant removing the right rope of the swing but that was fixed by cloning the left rope
     * Resize to landscape A3 and fill in blanks with clone and spill pain tools
+    * Add the "M.E.A.T." text
+    * Add the "Mankind for Ethical Animal Treatment" text (not in the original, but I think we need to add it because people won't know what "M.E.A.T." means without the show to tell them)
     * Saved as `MEAT.xcf`
     * Exported to `MEAT.png`
