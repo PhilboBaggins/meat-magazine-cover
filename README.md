@@ -8,7 +8,7 @@ This design is intended to be printed on A3 paper and used as a cover for a fake
 
 ## Design method
 
-* QR Code (containing the URL to this repository) generated with [Python qrcode package]([AA](https://pypi.org/project/qrcode/)): `qr --factory=svg 'https://github.com/PhilboBaggins/meat-magazine-cover' > grcode.svg`
+* QR Code (containing the URL to this repository) generated with [Python qrcode package]([AA](https://pypi.org/project/qrcode/)): `qr --factory=svg 'https://github.com/PhilboBaggins/meat-magazine-cover' > qrcode.svg`
 * `1-Capture.png` was captured from the video
 * `1-Capture.png` was then cropped to create `2-Cropped.png`
 * `2-Cropped.png` was then opened in [Gimp](https://www.gimp.org/) and the perspective was fixed to create `3-PerspectiveFixed.png`
