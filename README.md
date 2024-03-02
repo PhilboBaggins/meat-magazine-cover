@@ -2,6 +2,8 @@
 
 Based on a magazine shown in from [Futurama season 2 episode 18 "The Problem With Popplers"](https://en.wikipedia.org/wiki/The_Problem_with_Popplers).
 
+![MEAT](MEAT.png)
+
 ## Design method
 
 * `1-Capture.png` was captured from the video
