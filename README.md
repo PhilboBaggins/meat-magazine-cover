@@ -1,6 +1,7 @@
 # MEAT (Mankind for Ethical Animal Treatment)
 
 Based on a magazine shown in from [Futurama season 2 episode 18 "The Problem With Popplers"](https://en.wikipedia.org/wiki/The_Problem_with_Popplers).
+Video clip [here](https://www.youtube.com/watch?v=MxRkHeQ7-B8).
 
 This design is intended to be printed on A3 paper and used as a cover for a fake magazine by stapling it to a bunch of other A3 pages and folding them in half.
 
